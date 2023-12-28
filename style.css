@@ -1,0 +1,36 @@
+h1 {
+    color: #ff0000;
+    text-decoration: wavy underline;
+}
+
+h2 {
+    color: #ff6600;
+}
+
+h3 {
+    background-color: #ffcc00;
+    display: inline;
+}
+
+h4 {
+    text-shadow: 2px 2px 5px red;
+}
+
+h5 {
+    display: inline-block;
+    transform: rotate(45deg);
+    text-align: center;
+    color: #ff6600;
+}
+
+h6 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(162, 0, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 24px;
+    margin: 10px 0;
+}
